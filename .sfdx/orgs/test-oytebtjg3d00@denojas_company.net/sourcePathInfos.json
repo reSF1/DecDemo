@@ -1,0 +1,403 @@
+[
+    [
+        "/Users/denojas/Documents/SFDX/DecDemo/force-app",
+        {
+            "sourcePath": "/Users/denojas/Documents/SFDX/DecDemo/force-app",
+            "isDirectory": true,
+            "size": 102,
+            "modifiedTime": 1513122908000,
+            "changeTime": 1513122908000,
+            "contentHash": "b28b7af69320201d1cf206ebf28373980add1451",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": true
+        }
+    ],
+    [
+        "/Users/denojas/Documents/SFDX/DecDemo/force-app/main",
+        {
+            "sourcePath": "/Users/denojas/Documents/SFDX/DecDemo/force-app/main",
+            "isDirectory": true,
+            "size": 102,
+            "modifiedTime": 1513122908000,
+            "changeTime": 1513122908000,
+            "contentHash": "7505d64a54e061b7acd54ccd58b49dc43500b635",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/denojas/Documents/SFDX/DecDemo/force-app/main/default",
+        {
+            "sourcePath": "/Users/denojas/Documents/SFDX/DecDemo/force-app/main/default",
+            "isDirectory": true,
+            "size": 238,
+            "modifiedTime": 1513122908000,
+            "changeTime": 1513122908000,
+            "contentHash": "a81adfb38730e0617c926d6068400ef4b82f1bf2",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/denojas/Documents/SFDX/DecDemo/force-app/main/default/applications",
+        {
+            "sourcePath": "/Users/denojas/Documents/SFDX/DecDemo/force-app/main/default/applications",
+            "isDirectory": true,
+            "size": 102,
+            "modifiedTime": 1513122908000,
+            "changeTime": 1513122908000,
+            "contentHash": "773f904d4fd3e441ea0f66dde54c9ad8697bd065",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/denojas/Documents/SFDX/DecDemo/force-app/main/default/applications/standard__LightningSales.app-meta.xml",
+        {
+            "sourcePath": "/Users/denojas/Documents/SFDX/DecDemo/force-app/main/default/applications/standard__LightningSales.app-meta.xml",
+            "isDirectory": false,
+            "size": 874,
+            "modifiedTime": 1513122908000,
+            "changeTime": 1513122908000,
+            "contentHash": "aa14664bb67ecf18ffb5ac56d6bca8d19b78c4ef",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/denojas/Documents/SFDX/DecDemo/force-app/main/default/aura",
+        {
+            "sourcePath": "/Users/denojas/Documents/SFDX/DecDemo/force-app/main/default/aura",
+            "isDirectory": true,
+            "size": 102,
+            "modifiedTime": 1513122908000,
+            "changeTime": 1513122908000,
+            "contentHash": "5410179704a8b0dcc3942fad0fce033cf3e23274",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/denojas/Documents/SFDX/DecDemo/force-app/main/default/aura/DecDemo",
+        {
+            "sourcePath": "/Users/denojas/Documents/SFDX/DecDemo/force-app/main/default/aura/DecDemo",
+            "isDirectory": true,
+            "size": 374,
+            "modifiedTime": 1513122908000,
+            "changeTime": 1513122908000,
+            "contentHash": "d8a4cf1a0282b51304ba42da54ad13de61122c2c",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/denojas/Documents/SFDX/DecDemo/force-app/main/default/aura/DecDemo/DecDemo.auradoc",
+        {
+            "sourcePath": "/Users/denojas/Documents/SFDX/DecDemo/force-app/main/default/aura/DecDemo/DecDemo.auradoc",
+            "isDirectory": false,
+            "size": 209,
+            "modifiedTime": 1513122908000,
+            "changeTime": 1513122908000,
+            "contentHash": "fd7f560d82324d6a8255c8c6ebf60698f5f93f1e",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/denojas/Documents/SFDX/DecDemo/force-app/main/default/aura/DecDemo/DecDemo.cmp",
+        {
+            "sourcePath": "/Users/denojas/Documents/SFDX/DecDemo/force-app/main/default/aura/DecDemo/DecDemo.cmp",
+            "isDirectory": false,
+            "size": 125,
+            "modifiedTime": 1513122908000,
+            "changeTime": 1513122908000,
+            "contentHash": "4f19c928d2b6ccd801f0a90793171d2fcc5c2eac",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/denojas/Documents/SFDX/DecDemo/force-app/main/default/aura/DecDemo/DecDemo.cmp-meta.xml",
+        {
+            "sourcePath": "/Users/denojas/Documents/SFDX/DecDemo/force-app/main/default/aura/DecDemo/DecDemo.cmp-meta.xml",
+            "isDirectory": false,
+            "size": 239,
+            "modifiedTime": 1513122908000,
+            "changeTime": 1513122908000,
+            "contentHash": "640b5a31253e3ce542ab395cf0b2f516587dee8a",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/denojas/Documents/SFDX/DecDemo/force-app/main/default/aura/DecDemo/DecDemo.css",
+        {
+            "sourcePath": "/Users/denojas/Documents/SFDX/DecDemo/force-app/main/default/aura/DecDemo/DecDemo.css",
+            "isDirectory": false,
+            "size": 10,
+            "modifiedTime": 1513122908000,
+            "changeTime": 1513122908000,
+            "contentHash": "44063bf628f237edaa1f3f358714dd40ac321703",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/denojas/Documents/SFDX/DecDemo/force-app/main/default/aura/DecDemo/DecDemo.design",
+        {
+            "sourcePath": "/Users/denojas/Documents/SFDX/DecDemo/force-app/main/default/aura/DecDemo/DecDemo.design",
+            "isDirectory": false,
+            "size": 40,
+            "modifiedTime": 1513122908000,
+            "changeTime": 1513122908000,
+            "contentHash": "c5618bc7228e29c74b07b78fd040e05ae8a541ec",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/denojas/Documents/SFDX/DecDemo/force-app/main/default/aura/DecDemo/DecDemo.svg",
+        {
+            "sourcePath": "/Users/denojas/Documents/SFDX/DecDemo/force-app/main/default/aura/DecDemo/DecDemo.svg",
+            "isDirectory": false,
+            "size": 661,
+            "modifiedTime": 1513122908000,
+            "changeTime": 1513122908000,
+            "contentHash": "721eeffe17135535c3834b77f1e1968fe6360ed4",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/denojas/Documents/SFDX/DecDemo/force-app/main/default/aura/DecDemo/DecDemoController.js",
+        {
+            "sourcePath": "/Users/denojas/Documents/SFDX/DecDemo/force-app/main/default/aura/DecDemo/DecDemoController.js",
+            "isDirectory": false,
+            "size": 65,
+            "modifiedTime": 1513122908000,
+            "changeTime": 1513122908000,
+            "contentHash": "194250e0c86b1981f8d4e7246be6b32954c6deaf",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/denojas/Documents/SFDX/DecDemo/force-app/main/default/aura/DecDemo/DecDemoHelper.js",
+        {
+            "sourcePath": "/Users/denojas/Documents/SFDX/DecDemo/force-app/main/default/aura/DecDemo/DecDemoHelper.js",
+            "isDirectory": false,
+            "size": 45,
+            "modifiedTime": 1513122908000,
+            "changeTime": 1513122908000,
+            "contentHash": "fa35ebecd73c127729bf311a95b613f711a6f10b",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/denojas/Documents/SFDX/DecDemo/force-app/main/default/aura/DecDemo/DecDemoRenderer.js",
+        {
+            "sourcePath": "/Users/denojas/Documents/SFDX/DecDemo/force-app/main/default/aura/DecDemo/DecDemoRenderer.js",
+            "isDirectory": false,
+            "size": 50,
+            "modifiedTime": 1513122908000,
+            "changeTime": 1513122908000,
+            "contentHash": "8b79b016f08440c9b2f7d706a6d21229c854540b",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/denojas/Documents/SFDX/DecDemo/force-app/main/default/flexipages",
+        {
+            "state": "u",
+            "sourcePath": "/Users/denojas/Documents/SFDX/DecDemo/force-app/main/default/flexipages",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 136,
+            "modifiedTime": 1513123455000,
+            "changeTime": 1513123455000,
+            "contentHash": "d556cec958c7383bb36fb9ee0daab4999068ba1c"
+        }
+    ],
+    [
+        "/Users/denojas/Documents/SFDX/DecDemo/force-app/main/default/flexipages/DecDemo.flexipage-meta.xml",
+        {
+            "sourcePath": "/Users/denojas/Documents/SFDX/DecDemo/force-app/main/default/flexipages/DecDemo.flexipage-meta.xml",
+            "isDirectory": false,
+            "size": 923,
+            "modifiedTime": 1513122908000,
+            "changeTime": 1513122908000,
+            "contentHash": "8477e076282340e7c90197637b5a4dd50d44c74f",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/denojas/Documents/SFDX/DecDemo/force-app/main/default/profiles",
+        {
+            "sourcePath": "/Users/denojas/Documents/SFDX/DecDemo/force-app/main/default/profiles",
+            "isDirectory": true,
+            "size": 204,
+            "modifiedTime": 1513122908000,
+            "changeTime": 1513122908000,
+            "contentHash": "9c367b0e719eb8c48c5b0d9cbfb5f580a4bd6717",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/denojas/Documents/SFDX/DecDemo/force-app/main/default/profiles/Admin.profile-meta.xml",
+        {
+            "sourcePath": "/Users/denojas/Documents/SFDX/DecDemo/force-app/main/default/profiles/Admin.profile-meta.xml",
+            "isDirectory": false,
+            "size": 17101,
+            "modifiedTime": 1513122908000,
+            "changeTime": 1513122908000,
+            "contentHash": "d7eb7eefbe1fca41019da08af78ac2c37f851cd4",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/denojas/Documents/SFDX/DecDemo/force-app/main/default/profiles/Custom%3A Marketing Profile.profile-meta.xml",
+        {
+            "sourcePath": "/Users/denojas/Documents/SFDX/DecDemo/force-app/main/default/profiles/Custom%3A Marketing Profile.profile-meta.xml",
+            "isDirectory": false,
+            "size": 4403,
+            "modifiedTime": 1513122908000,
+            "changeTime": 1513122908000,
+            "contentHash": "6a7cd640aaf9adf2ecab9114ad59a43237a2a291",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/denojas/Documents/SFDX/DecDemo/force-app/main/default/profiles/Custom%3A Sales Profile.profile-meta.xml",
+        {
+            "sourcePath": "/Users/denojas/Documents/SFDX/DecDemo/force-app/main/default/profiles/Custom%3A Sales Profile.profile-meta.xml",
+            "isDirectory": false,
+            "size": 4403,
+            "modifiedTime": 1513122908000,
+            "changeTime": 1513122908000,
+            "contentHash": "6a7cd640aaf9adf2ecab9114ad59a43237a2a291",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/denojas/Documents/SFDX/DecDemo/force-app/main/default/profiles/Custom%3A Support Profile.profile-meta.xml",
+        {
+            "sourcePath": "/Users/denojas/Documents/SFDX/DecDemo/force-app/main/default/profiles/Custom%3A Support Profile.profile-meta.xml",
+            "isDirectory": false,
+            "size": 4741,
+            "modifiedTime": 1513122908000,
+            "changeTime": 1513122908000,
+            "contentHash": "f194c3a5955809e1c0198ccce80f143bd6bc0b7b",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/denojas/Documents/SFDX/DecDemo/force-app/main/default/tabs",
+        {
+            "sourcePath": "/Users/denojas/Documents/SFDX/DecDemo/force-app/main/default/tabs",
+            "isDirectory": true,
+            "size": 102,
+            "modifiedTime": 1513122908000,
+            "changeTime": 1513122908000,
+            "contentHash": "a3f758f18d14d9a1c35ca418bf822737d2fb9d01",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/denojas/Documents/SFDX/DecDemo/force-app/main/default/tabs/DecDemo.tab-meta.xml",
+        {
+            "sourcePath": "/Users/denojas/Documents/SFDX/DecDemo/force-app/main/default/tabs/DecDemo.tab-meta.xml",
+            "isDirectory": false,
+            "size": 310,
+            "modifiedTime": 1513122908000,
+            "changeTime": 1513122908000,
+            "contentHash": "caaa30dbc8523f1af5294a45ded34a7d46c2f498",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/denojas/Documents/SFDX/DecDemo",
+        {
+            "sourcePath": "/Users/denojas/Documents/SFDX/DecDemo",
+            "isDirectory": true,
+            "size": 272,
+            "modifiedTime": 1513122908000,
+            "changeTime": 1513122908000,
+            "contentHash": "8b83a6fc8ebc85fbcc0a9655c8a88ee3e37f3e95",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": true,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/denojas/Documents/SFDX/DecDemo/force-app/main/default/flexipages/Account_Record_Page.flexipage-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/denojas/Documents/SFDX/DecDemo/force-app/main/default/flexipages/Account_Record_Page.flexipage-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 6345,
+            "modifiedTime": 1513123455000,
+            "changeTime": 1513123455000,
+            "contentHash": "25e28232d74fe5f677714c8f669c7ce25d46dd8e"
+        }
+    ]
+]
